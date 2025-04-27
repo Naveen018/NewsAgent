@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./news_agent_flow/src/news_agent_flow/crews/poem_crew"
+    ]
+}
